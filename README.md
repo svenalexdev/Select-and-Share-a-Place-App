@@ -1,6 +1,6 @@
 # Address to Map App (Geocoding & Google Maps)
 
-A TypeScript application that takes a user-entered address, converts it into coordinates with the **Google Geocoding API**, and displays the location on a map using the **Google Maps JavaScript API**. Built to practice integrating APIs and third-party libraries in TypeScript.  
+A small TypeScript application that takes a user-entered address, converts it into coordinates with the **Google Geocoding API**, and displays the location on a map using the **Google Maps JavaScript API**. Built to practice integrating APIs and third-party libraries in TypeScript.  
 
 ### Features
 - TypeScript + Axios for HTTP requests  
@@ -19,3 +19,4 @@ A TypeScript application that takes a user-entered address, converts it into coo
 
 ### Purpose
 Built as part of the *Understanding TypeScript* Udemy course to practice working with external APIs and TypeScript integrations.  
+
